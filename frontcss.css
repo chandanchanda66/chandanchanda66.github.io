@@ -1,0 +1,45 @@
+body 
+{
+padding: 0;
+margin: 0;
+overflow:hidden;
+
+}
+
+#fullview
+{
+	height:3360px;
+}
+
+#home
+{
+	height:840px;
+	
+}
+#profile
+{
+	height: 350px;
+    width: 300px;
+    border-radius: 50%;
+    margin-top: 38px;
+    margin-left: 111px;
+    margin-right: 63px;
+    float: left;
+}
+#myinfo
+{
+	line-height:150%;
+	font-size:30px;
+}
+#skills
+{
+	height:840px;
+}
+#reachme
+{
+	height:840px;
+}
+#about
+{
+	height:840px;
+}

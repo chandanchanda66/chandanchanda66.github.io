@@ -1,0 +1,56 @@
+body
+{
+	
+}
+.text{
+	font-size:20px;
+	font-family: sans-serif;
+}
+#Menu
+{
+	width:3030px;
+}
+#home
+{
+    margin-top: 180px;
+    margin-left: 400px;
+    overflow: hidden;
+    padding: 0px;
+	float:left;
+	background-image:url("home.jpg");
+	background-size:cover;
+}
+#skills
+{
+	margin-top: 180px;
+    overflow: hidden;
+    padding: 0px;
+	float:left;
+}
+
+#reachme
+{
+	margin-top: 180px;
+    overflow: hidden;
+    padding: 0px;
+    float: left;
+}
+#about
+{
+	margin-top: 180px;
+    overflow: hidden;
+    padding: 0px;
+    float: left;
+}
+
+a {
+    display: block;
+    text-align: center;
+    padding: 200px 302px;
+}
+
+a:hover {
+    font-family: sans-serif;
+    color: white;
+    text-decoration: underline;
+}
